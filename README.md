@@ -2,7 +2,7 @@
 
 Um projeto de menu interativo com hambúrgueres utilizando HTML, CSS e JavaScript, com foco em manipulação de arrays através dos métodos `forEach`, `map`, `reduce` e `filter`.
 
-![Dev Burger Logo](./dev-burger.png)
+<img src="https://github.com/ciregyn/Desafio-Dev-burger/blob/main/img/TelaInicial.png?raw=true"/>
 
 ## 💡 Sobre o Projeto
 
@@ -40,6 +40,10 @@ Funcionalidades principais:
 | Resetar | Limpa o menu e mostra novamente a logo Dev Burger | - |
 
 ---
+
+🙋‍♂️ Autor
+Desenvolvido por Eric Gonçalves
+📫 Conecte-se comigo no LinkedIn : (https://www.linkedin.com/in/eric-andrade-956b52295/)
 
 
 
