@@ -3,6 +3,7 @@
 Um projeto de menu interativo com hambúrgueres utilizando HTML, CSS e JavaScript, com foco em manipulação de arrays através dos métodos `forEach`, `map`, `reduce` e `filter`.
 
 <img src="https://github.com/ciregyn/Desafio-Dev-burger/blob/main/img/TelaInicial.png?raw=true"/>
+<a href="bucolic-toffee-324251.netlify.app">🔗Link do site🌎</a>
 
 ## 💡 Sobre o Projeto
 
